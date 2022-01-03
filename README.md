@@ -1,2 +1,2 @@
-# recipe-app.github-io
+# recipe-app
 recipe app javascript
